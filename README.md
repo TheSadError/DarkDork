@@ -5,7 +5,7 @@
 <a href="https://www.youtube.com/channel/UCUfTuo3-85qD_7v1n-W98rw"><img src="https://img.shields.io/badge/-YouTube-red?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
 </p>
 Fast dorking with DarkDork. Written with python. Please run it with python3 versions. You can find vulnerability url s. Used Packets : google,sys,time,os and colorama.
-
+Discord : err0r#4018
 
 ## Installing
 ```
@@ -21,8 +21,6 @@ sudo python3 main.py
   </p>
 </div>
 
-### Information
-**Error's Discord  : err0r#4018**
 
 ```
 For Educational Purposes
