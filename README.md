@@ -21,6 +21,4 @@ sudo python3 main.py
 </div>
 
 
-```
-For Educational Purposes
-```
+## For Educational Purposes
